@@ -14,6 +14,7 @@ The Expresss JS Note Taker is a simple, lightweight, and fast web application th
 - [What I Learned](#What-I-Learned)
 - [Continued Development](#Continued-Development)
 - [License](#License)
+- [Questions](#Questions)
 
 # Overview
 
@@ -48,7 +49,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Usage Instructions
-1. Click here to open the [Deployed Application Link:](https://e-js-note.herokuapp.com/)
+1. 
 2. Click "Get Started" to open the note taker.
 3. Enter text into the 'title' and 'text' fields 
 4. Click the save icon (top right) to save the note.
@@ -56,11 +57,11 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 6. Additional: Click the trash icon to delete saved notes.
 
 ## Deployed Application Link:
-[Deployed Application Link:](https://e-js-note.herokuapp.com/)
+
 
 ## Screenshots:
 ### Figure 1. Screenshot
-![] 
+![](/public/assets/images/Note-Taker.png)
 
 ## Installation Process
 1. Clone the Repository from GitHub 
@@ -90,3 +91,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
 
+## Questions
+
+For additional questions, you can reach me through:
+
+- GitHub: [jaldhara21](https://github.com/jaldhara21)
+- Email: jaldharapatel91@gmail.com
