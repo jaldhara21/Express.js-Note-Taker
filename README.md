@@ -66,6 +66,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ###  2. Note-taker-heroku
 ![](/public/assets/images/Note-taker-heroku.png)
 
+### 3. Add-new-notes
+![](/public/assets/images/Add-new-notes.png)
+
 ## Installation Process
 1. Clone the Repository from GitHub 
 2. (or) Download Zip Folder from Repository from GitHub
