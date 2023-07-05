@@ -49,7 +49,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Usage Instructions
-1. 
+1. Click here to oprn the link: https://rocky-taiga-44447-d3d4273dd892.herokuapp.com/
 2. Click "Get Started" to open the note taker.
 3. Enter text into the 'title' and 'text' fields 
 4. Click the save icon (top right) to save the note.
@@ -57,11 +57,14 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 6. Additional: Click the trash icon to delete saved notes.
 
 ## Deployed Application Link:
-
+  https://rocky-taiga-44447-d3d4273dd892.herokuapp.com/
 
 ## Screenshots:
-### Figure 1. Screenshot
+###  1. Screenshot
 ![](/public/assets/images/Note-Taker.png)
+
+###  2. Note-taker-heroku
+![](/public/assets/images/Note-taker-heroku.png)
 
 ## Installation Process
 1. Clone the Repository from GitHub 
