@@ -27,7 +27,8 @@ router.post("/api/notes", (req, res) => {
   fs.writeFileSync("db/db.json", JSON.stringify(dbJson));
   res.json(dbJson);
 });
-// Read the contents of the "db.json" file,Parse the data as JSON,  Filter out the note with the matching ID
+
+//DELETE /api/notes/:id should receive a query parameter containing the id of a note to delete, Read the contents of the "db.json" file,Parse the data as JSON,  Filter out the note with the matching ID
 router.delete("/api/notes/:id", (req, res) => {
   let data = fs.readFileSync("db/db.json", "utf8");
   const dataJSON = JSON.parse(data);
